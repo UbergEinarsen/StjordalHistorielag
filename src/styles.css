@@ -63,7 +63,7 @@ button { font: inherit; }
 }
 .nav-logo { display: flex; align-items: center; gap: .75rem; flex-shrink: 0; cursor: pointer; }
 .logo-mark {
-  width: 40px; height: 40px;
+  width: 50px; height: 50px;
   border-radius: 3px;
   object-fit: contain;
   flex-shrink: 0;
