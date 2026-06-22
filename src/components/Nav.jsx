@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { ChevronDown } from './icons.jsx'
-import logoImg from '../images/stjordal_historielag_logo.jpg'
+import logoImg from '../images/stjordal_historielag_logo.png'
 
 /* Maps the current pathname's first segment to the nav item that should
    be highlighted (detail/gallery views fall back to their parent). */
